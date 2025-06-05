@@ -1,3 +1,3 @@
 install_htop:
   pkg.installed:
-    - name: htop
+    - name: s-tui
